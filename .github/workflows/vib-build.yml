@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  CUSTOM_IMAGE_NAME: tailscale
+  CUSTOM_IMAGE_NAME: vanilla-kotone
   BUILDX_NO_DEFAULT_ATTESTATIONS: 1
 
 jobs:
